@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://volokads.github.io/mod13test",
+  "homepage": "https://volokads.github.io/letsTry",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url mod13test/"
+    "build": "parcel build src/*.html --public-url letstry/"
   },
   "repository": {
     "type": "git",
